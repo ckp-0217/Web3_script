@@ -1,0 +1,12 @@
+{
+    "0x68c9612cd899376cac11a851d72027f820dec149": {
+        "balance": "0x0",
+        "nonce": 1,
+        "storage": {}
+    },
+    "0xbc593fdb62ee1c1df173ad695f05689db60c28f8": {
+        "balance": "0x1521e4e5f3490bf5",
+        "nonce": 331,
+        "storage": {}
+    }
+}
